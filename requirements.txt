@@ -1,0 +1,9 @@
+Django>=3.2,<4.0
+djangorestframework
+django-cors-headers
+djangorestframework
+Pillow
+djangorestframework-simplejwt
+psycopg2-binary
+psycopg2
+
